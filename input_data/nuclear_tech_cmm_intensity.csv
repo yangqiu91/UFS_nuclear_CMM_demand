@@ -1,0 +1,43 @@
+Technology,Material,Installation_kg_kw,Operation_kg_kwh
+Nuclear - Legacy,Copper,1,
+Nuclear - Legacy,Fluorine,,
+Nuclear - Legacy,Graphite,,
+Nuclear - Legacy,Hafnium,,6.00E-05
+Nuclear - Legacy,Silicon carbide,,
+Nuclear - Legacy,Zirconium,0.025,7.00E-07
+Nuclear - Large - PWR,Copper,1,
+Nuclear - Large - PWR,Fluorine,,
+Nuclear - Large - PWR,Graphite,,
+Nuclear - Large - PWR,Hafnium,,6.00E-05
+Nuclear - Large - PWR,Silicon carbide,,
+Nuclear - Large - PWR,Zirconium,0.025,7.00E-07
+Nuclear - SMR - PWR modular,Copper,,
+Nuclear - SMR - PWR modular,Fluorine,,
+Nuclear - SMR - PWR modular,Graphite,,
+Nuclear - SMR - PWR modular,Hafnium,,
+Nuclear - SMR - PWR modular,Silicon carbide,,
+Nuclear - SMR - PWR modular,Zirconium,0.03,1.00E-06
+Nuclear - SMR - BWR,Copper,1.47,
+Nuclear - SMR - BWR,Fluorine,,
+Nuclear - SMR - BWR,Graphite,,
+Nuclear - SMR - BWR,Hafnium,,
+Nuclear - SMR - BWR,Silicon carbide,,
+Nuclear - SMR - BWR,Zirconium,0.036,1.00E-06
+Nuclear - SMR - HTGR,Copper,1,
+Nuclear - SMR - HTGR,Fluorine,,
+Nuclear - SMR - HTGR,Graphite,6.1,0.002
+Nuclear - SMR - HTGR,Hafnium,,
+Nuclear - SMR - HTGR,Silicon carbide,0.01,4.00E-07
+Nuclear - SMR - HTGR,Zirconium,,
+Nuclear - SMR - SFR,Copper,1,
+Nuclear - SMR - SFR,Fluorine,,
+Nuclear - SMR - SFR,Graphite,,
+Nuclear - SMR - SFR,Hafnium,,
+Nuclear - SMR - SFR,Silicon carbide,,
+Nuclear - SMR - SFR,Zirconium,,
+Nuclear - SMR - MSR,Copper,1,
+Nuclear - SMR - MSR,Fluorine,0.0449,
+Nuclear - SMR - MSR,Graphite,,
+Nuclear - SMR - MSR,Hafnium,,
+Nuclear - SMR - MSR,Silicon carbide,,
+Nuclear - SMR - MSR,Zirconium,,
