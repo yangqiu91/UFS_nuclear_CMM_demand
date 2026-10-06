@@ -1,0 +1,1106 @@
+"Units","scenario","Trade","ReactorCost","FuelCost","region","Technology","year","value"
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.185247198432305
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.294325092794987
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.368638088236537
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.688824068009042
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.532029365112465
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.450648903892006
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.478394720996268
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.489172078174308
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.471004241160932
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.585408460133387
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.444399876682229
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.383473565047535
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.432879723467257
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.41480388412818
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.365459057491323
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.645084284861871
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.930018118771587
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,1.96790180699787
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,1.87033997706464
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,1.77369812387439
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,2.01174721710443
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.16997980957708
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.18715270877952
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,2.81901317979126
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.20823039815776
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,1.9364488243515
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.20958310470208
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.14282686637386
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.362610536909331
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.60155234831219
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.83348870718326
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.67327755139535
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.38577118992654
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.21443744716948
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.31845615090999
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.37459517615987
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.34498896164201
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,1.6937453302662
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.30528685420018
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.13869950997268
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.29686395601993
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.2539351153351
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.431182877474635
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.892520548191653
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.40009556854699
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,3.13527051813908
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,3.17332007476481
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.10902392239376
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,3.5956779901493
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,3.93794341175351
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,4.01665253309804
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,5.22495680198093
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.12674308334226
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.63520291688508
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.16044149070578
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,4.04752286380719
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.356504617192907
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.565107640004787
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.655077958147737
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,1.24163468554922
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.966152760843391
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.823161116412903
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.880318930722616
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.907294693219785
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.879398953979629
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.09970271803381
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.842749806396005
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.733408866831254
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.834129283582081
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.805310160277667
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56141860141183
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.89120750286692
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,6.18520808238412
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,7.52799932180677
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,13.9315826244061
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,10.6906749249231
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,9.10214767548454
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,9.7251763697636
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,10.0082566209023
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,9.68718473759946
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,12.0932987258527
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,9.22709414646739
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,7.98873730398021
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.03945296411055
+"GW","Current Trade","Current","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,8.68304715923448
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.18552216925882
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.26927821486895
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.303015465694953
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.566109392458262
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.500126616058405
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.43772152699239
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.469542500335962
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.484623304278423
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.471522153994021
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.588437568742706
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.440212278840998
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.378781683658296
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.429383811843903
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.409209062602305
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.365735050514219
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.61609479549394
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.837649046454328
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,1.77994715108417
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,1.83318995325428
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,1.77168439700363
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,2.02058921580092
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.19310870636005
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.22594846876345
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,2.87986112303674
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.23105945066894
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,1.95012921925186
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.23317880449908
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.15229581218409
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.363087561887176
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.55300824217386
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.685277046566633
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.36120440356749
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.28274060935443
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.16480981286719
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.28064169945191
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.35006927765607
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.33721004718186
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,1.69258684103429
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.28555846404499
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.11868490483079
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.27977283252798
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.23107539693248
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.431482721746424
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.859701229715876
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.2822158818788
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,2.88297200735654
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,3.13531481331559
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.12607415803047
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,3.63394220801506
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,4.00343212656917
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,4.11001313590496
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,5.3658154632962
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.19253845707225
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.6804180701423
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.22633908407388
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,4.08517376384429
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.357097491093944
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.511350332322858
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.524976210082891
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,0.987366743072439
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.885569612800188
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.783462416292338
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.849019277533405
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.885184585496641
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.869003216783865
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.09229860891339
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.824428639925464
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.715735091402075
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.817774141484518
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.785615843335184
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56232494886974
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.89580738658186
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,5.62456744056473
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,6.1536222142082
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,11.4488039075706
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,10.1331690186724
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,8.91740271620748
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,9.62517149047953
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,9.99466140903365
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,9.7733899657387
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,12.244822302744
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,9.19857486743476
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,7.93885412058265
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.01863423114886
+"GW","Limited Trade","Limited","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,8.61394668387227
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.1598578847186
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.228782542303257
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.247466929221214
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.454659321027179
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.441984085901568
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.409079584394032
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.446100129996121
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.467109672948949
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.463627390610676
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.594148239191772
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.451446217069262
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.385964316896143
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.434590198744961
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.409249950457549
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.339441774467497
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.544070838481796
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.74926654002335
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,1.58043145410025
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,1.72358324263044
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,1.72705189568363
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,1.98916689904598
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.17945557002986
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.24154377821773
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,2.95527536471285
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.31058973643961
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,2.00884077206084
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.28776068392843
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.17969748984005
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.315547593327211
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.45508864350724
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.550572007465577
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.07077115312747
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.10594833792231
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.06350333685787
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.19102915004235
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.27623262572811
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.29257413854059
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,1.68479770461032
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.30381829873267
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.12848776812552
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.28304045362622
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.22028781779063
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.408023314800231
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.78065478356559
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.17657870053489
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,2.625266077718
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,3.00022815423226
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.09452917770979
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,3.63101191172258
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,4.03604019112619
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,4.19444655698363
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,5.57390057327499
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.3907423353671
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.83327050232911
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.37694268422227
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,4.18122615045477
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.302079474541995
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.425155326147429
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.413117260099368
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,0.759723609001979
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.753157700914062
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.708518384951525
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.783097832916413
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.830745813560648
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.835042445682529
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.08250596758247
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.833577297536289
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.719701213360734
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.817072233302831
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.77604808520811
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56589922888231
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.5048274927758
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,4.57068297165299
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,5.03329498052511
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,9.22600380366088
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,9.03512566609724
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,8.41478875562174
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,9.22988814990905
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,9.71955428966756
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,9.69539638186095
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,12.4764520027008
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,9.51968082395025
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,8.15801302468999
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.20000594236829
+"GW","100% Domestic","100% Domestic","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,8.67854949515765
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.185734445373962
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.259191521712405
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.3173309852801
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.551161474045344
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.48594534493131
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.426303593415529
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.456461793979181
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.47799265708637
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.476599062686806
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.598560720236844
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.47350180765208
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.41051747397011
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.472738567687527
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.466557686903157
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.366464217266069
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.63460677195562
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,1.05111431671896
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,2.39696533064237
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,2.77884426933539
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,2.87438896507659
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,3.42152980002295
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,3.90233690447861
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,4.17093604021838
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,5.53907774989226
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,4.22098958967947
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,3.43549981723129
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,3.7620574877793
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,3.52685010048872
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.36354073561613
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.545001037188595
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.787908970550113
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.55454944173085
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.55490380314297
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.47193893753181
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.65774698104521
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.81034727145801
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.86822403055577
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,2.40903406258186
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.96921362568695
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.75103943742673
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,2.05787553246209
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,2.07170244217708
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.432429957059574
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.976844934989673
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.97093432292846
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,5.20829500096904
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,6.80077474308116
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,7.46210172843868
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,8.92922612101551
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,8.36061234742356
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,7.57897284801085
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,8.80887953374761
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,6.37158855587094
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,5.17296107939576
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,5.65237118213059
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,5.29095661498714
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.357431408578436
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.490780333813902
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.524625255992047
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,0.913680013280375
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.828347059386339
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.747372069397049
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.819620909613034
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.878455125987748
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.894830712012934
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.14465210023194
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.928651782942186
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.822060551642588
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.963379201329346
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.967955233795393
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.5623181342272
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,3.05774032995409
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,6.80407984471338
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,8.32170073851644
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,14.6409869128879
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,13.29270988622
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,11.994281969737
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,13.0676222431023
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,13.5091429333111
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,13.2227916537529
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,15.9150865555008
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,11.9300539637913
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,9.93077413521505
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,11.077065156978
+"GW","Limited Trade - Adv. Reactor","Limited","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,10.5733949267985
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2035,0.198208648544624
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2040,0.314577869693676
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2045,0.412037139256675
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2050,0.852208530242429
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2055,0.910402170218322
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2060,0.901982679359347
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2065,1.0233105751531
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2070,1.1062481821941
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2075,1.13516952513663
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2080,1.49041002613824
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2085,1.17419698296694
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2090,1.01712969436873
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2095,1.20570107543237
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2100,1.22553168522566
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2035,0.36940132820109
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2040,0.640940982197155
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2045,0.919128319991626
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2050,2.0134610997034
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2055,2.25503677044822
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2060,2.2778658229594
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2065,2.62134765825712
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2070,2.85472872134681
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2075,2.91930086674075
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2080,3.78935013115461
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2085,2.9388043736921
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2090,2.48356580804897
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2095,2.8386086844169
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2100,2.77090521077553
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2035,0.362269804782298
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2040,0.569516713728588
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2045,0.761280754822518
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2050,1.578462022406
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2055,1.68534628333485
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2060,1.63925544851115
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2065,1.80882760617145
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2070,1.89093041950122
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2075,1.86583549834527
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2080,2.3456578869538
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2085,1.76230404154642
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2090,1.45227528648076
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2095,1.63092795532647
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2100,1.56478844214818
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2035,0.429370182558822
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2040,0.863261880443366
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2045,1.32767295494622
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2050,3.01939092905657
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2055,3.47781874740873
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2060,3.54920212802206
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2065,4.10054078277346
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2070,4.46682781933347
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2075,4.55115902077403
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2080,5.87210933085389
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2085,4.51906205440756
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2090,3.78270585467747
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2095,4.27318975154086
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2100,4.11887217120781
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2035,0.357261042514919
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2040,0.532806234362099
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2045,0.596046117139344
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2050,1.17505562792706
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2055,1.2068800085919
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2060,1.15050587817436
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2065,1.25278344074573
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2070,1.29658455567577
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2075,1.27028003546885
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2080,1.5892666381542
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2085,1.18930163815829
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2090,0.978405488131482
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2095,1.09894629271179
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2100,1.05491688725665
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2030,1.56746659666666
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2035,2.91647960472893
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2040,5.92461615162961
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2045,7.06208221130244
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2050,13.7201583395824
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2055,13.7506538649518
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2060,12.8961317635668
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2065,13.927800497796
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2070,14.3396434197403
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2075,13.9990135123458
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2080,17.48068253279
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2085,13.0463946315882
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2090,10.7304724373605
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2095,12.0534330669898
+"GW","Limited Trade - Adv. Fuel","Limited","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2100,11.5725918893215
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2035,0.198475101067964
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2040,0.311289463935685
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2045,0.458676552804893
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2050,0.971175152395851
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2055,1.0788976143572
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2060,1.01111236500534
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2065,1.14771528205397
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2070,1.29925248823043
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2075,1.40350629713859
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2080,1.92542614004199
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2085,1.59859247647108
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2090,1.45146775133969
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2095,1.77723151603172
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2100,1.89928857857733
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2035,0.370188419414535
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2040,0.670536974751204
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2045,1.18367274341971
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2050,2.93752322089446
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2055,3.83824519138378
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2060,4.01965097581592
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2065,4.83509110223027
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2070,5.65417706240386
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2075,6.19297677488046
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2080,7.21087993117756
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2085,5.01448656711292
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2090,3.93937448668705
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2095,4.24361420291443
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2100,4.05566636164327
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2035,0.362801346900469
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2040,0.571305557395509
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2045,0.894302577216033
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2050,1.99212445390862
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2055,2.33906131297445
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2060,2.23335939252641
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2065,2.50548851310224
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2070,2.76307177917505
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2075,2.87541797610023
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2080,3.76566924832585
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2085,2.96403558769886
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2090,2.53074698567916
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2095,2.85294328500116
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2100,2.70102105152115
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2035,0.430361713048487
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2040,0.989639426359746
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2045,2.07236686982479
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2050,5.82979040067645
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2055,8.43001948170009
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2060,9.2387812584246
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2065,9.69570304077528
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2070,8.86043230456764
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2075,7.87050325589991
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2080,9.0651441664888
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2085,6.2342053622514
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2090,4.82769721507366
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2095,5.1241682388047
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2100,4.82582318837498
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2035,0.35768355035244
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2040,0.522182206641224
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2045,0.608401064065545
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2050,1.19327116743822
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2055,1.2557955127487
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2060,1.13095466872523
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2065,1.23197152242658
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2070,1.33301222737682
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2075,1.37040417099737
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2080,1.78291833523189
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2085,1.39806139774861
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2090,1.19248407622478
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2095,1.36651301010666
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2100,1.3913217162759
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2030,1.56745637470285
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2035,3.08214356489216
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2040,7.36461826689466
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2045,9.87353113787357
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2050,19.6279763973493
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2055,20.5047483066295
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2060,18.2400040778821
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2065,19.3252018292681
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2070,19.231636787185
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2075,18.2224223001272
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2080,21.71768653244
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2085,15.518576579273
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2090,12.4517829967036
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2095,13.6137817695228
+"GW","Limited Trade - Adv. Nuc","Limited","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2100,13.1136210802517
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.159650719585364
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.225981042754795
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.25493100719599
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.466216954776124
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.445687844122412
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.404173041764763
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.437898707698447
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.465450307490301
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.474973770440861
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.615658658371339
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.483117268276939
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.41481410609199
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.475665456658737
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.463807978638004
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.339616229316538
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.551372727964104
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.909495822760416
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,2.15313060589532
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,2.64731485365828
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,2.82038973758447
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,3.39393049773331
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,3.92230380712272
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,4.27850517272257
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,5.84590703028509
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,4.44669055062584
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,3.56719278432937
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,3.87991673051987
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,3.58426346389371
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.31520549827167
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.449585819655664
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.606373707909701
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.24417313989562
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.34806577274912
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.32770362083765
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.52232299715611
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.6975001983061
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.80611537844027
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,2.42594459804649
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.97751045298019
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.74376821383585
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,2.04185430784902
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,2.03299867986745
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.408418564067589
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.874563965097036
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.74992183605006
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,4.76960238741461
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,6.60171903446873
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,7.47678728311378
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,9.28638153657105
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,8.74165308508408
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,8.00311619974099
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,9.45681574651274
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,6.70976519195076
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,5.37433376647201
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,5.83636653072818
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,5.38476016955921
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.301553384137856
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.419809239074288
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.402339902921328
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,0.733279388622982
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.719738693894707
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.672646106617536
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.748598705054366
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.817331189719376
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.856433608617633
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.13839625837962
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.920126665123832
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.807841799981519
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.943504296359536
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.937803847874281
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56588559959723
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.63243848899204
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,5.49825804107376
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,6.57439231788072
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,12.3142635102333
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,12.2648573518136
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,11.4868977593728
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,12.7358854442234
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,13.3645021453858
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,13.4790562864941
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,16.9506737091909
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,12.5247337451013
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,10.2688826248695
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,11.3675392952733
+"GW","100% Domestic - Adv. Reactor","100% Domestic","Reactor - Adv.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,10.691492682028
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2035,0.181940733871581
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2040,0.287414363794513
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2045,0.367595447927817
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2050,0.75021036801523
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2055,0.799211055203784
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2060,0.803698497316803
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2065,0.946110897131335
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2070,1.0525453916525
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2075,1.10352232517784
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2080,1.48050835052668
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2085,1.18801367071811
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2090,1.04715160208157
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2095,1.23649985239484
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2100,1.2512944413506
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2035,0.354221711941789
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2040,0.606288524877943
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2045,0.870052671735125
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2050,1.90020855532031
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2055,2.13024022160127
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2060,2.17921705754093
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2065,2.56466346160399
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2070,2.83687095056904
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2075,2.9332470327002
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2080,3.85293074605889
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2085,3.0147603794502
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2090,2.57062286650579
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2095,2.92109993237149
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2100,2.83532061939104
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2035,0.334737967453812
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2040,0.514137521121985
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2045,0.678183003681815
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2050,1.38956353850041
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2055,1.48010628661678
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2060,1.46153979301477
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2065,1.67027910867747
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2070,1.79314370636414
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2075,1.80453097404957
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2080,2.31342803505779
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2085,1.76605890958632
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2090,1.47703629015221
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2095,1.65102092885759
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2100,1.57616208054853
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2035,0.416224737097905
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2040,0.828684384192101
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2045,1.27627351358335
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2050,2.89749741793194
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2055,3.341239681609
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2060,3.45144608077641
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2065,4.0696023056389
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2070,4.49660780723611
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2075,4.62656304048634
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2080,6.03218528413379
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2085,4.6763780774585
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2090,3.94346327221144
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2095,4.42658735513092
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2100,4.24071797983465
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2035,0.325056745528436
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2040,0.49410587937374
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2045,0.529064995607281
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2050,1.02755269013466
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2055,1.05116201921675
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2060,1.01714673097509
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2065,1.14959612339519
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2070,1.22446178634678
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2075,1.2253442825558
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2080,1.56538472337049
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2085,1.19163906054973
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2090,0.995908897497145
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2095,1.11346148132338
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2100,1.06346244900262
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2030,1.57097954489636
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2035,2.68739858108239
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2040,5.39120000676013
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2045,6.37148633623283
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2050,12.2595419306318
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2055,12.3043141321239
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2060,11.7412542922026
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2065,13.1471491215517
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2070,13.8973049724266
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2075,13.8221394652032
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2080,17.5774163836546
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2085,13.3064754641521
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2090,11.0922958830564
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2095,12.3891905049677
+"GW","100% Domestic - Adv. Fuel","100% Domestic","Reactor - Mod.","Fuel - Adv.","USA","Nuclear - Large - PWR",2100,11.8247336633256
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2035,0.182157098772247
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2040,0.28423976256695
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2045,0.401716363128859
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2050,0.839983061524501
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2055,0.936788466135724
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2060,0.930774544093599
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2065,1.09109923182623
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2070,1.25673934074058
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2075,1.38123604531574
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2080,1.9436246429468
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2085,1.65598880326972
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2090,1.49855011665305
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2095,1.83140451690863
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - MSR",2100,1.9728015349846
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2035,0.354896361553313
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2040,0.627001630880253
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2045,1.1010929051121
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2050,2.73253877327166
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2055,3.59451950091739
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2060,3.93211689238126
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2065,4.83883915562763
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2070,5.72061982717521
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2075,6.33025774886189
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2080,7.57301003578778
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2085,5.29174029887932
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2090,4.10493622721218
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2095,4.39060604251628
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - HTGR",2100,4.1355339722197
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2035,0.335172400915779
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2040,0.508535884953569
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2045,0.771110876687408
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2050,1.69106717574772
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2055,1.98476804728599
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2060,2.00376386336805
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2065,2.3226243951664
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2070,2.6089381941906
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2075,2.76426434161967
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2080,3.71261725614688
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2085,2.99543064588364
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2090,2.54824017308102
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2095,2.91269407079759
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - SFR",2100,2.7849978915496
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2035,0.417090196700568
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2040,0.9414530889548
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2045,1.96222861708278
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2050,5.51464725638402
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2055,8.01040786725948
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2060,9.16613716894126
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2065,10.1315335044626
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2070,9.25585193798893
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2075,8.21590341307283
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2080,9.5212141185219
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2085,6.56284149877432
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2090,5.01935903652948
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2095,5.29109290783796
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - BWR",2100,4.91151731832367
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2035,0.32539611472696
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2040,0.488568982309461
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2045,0.53303111756594
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2050,1.0298901125261
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2055,1.08329646611719
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2060,1.02964137807337
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2065,1.1550376154639
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2070,1.26908747302424
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2075,1.32472902936866
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2080,1.76330920132117
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2085,1.41402810522135
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2090,1.20078090351802
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2095,1.3724451564383
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - SMR - PWR modular",2100,1.38308622076552
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2030,1.57096591561128
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2035,2.83623037417022
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2040,6.62969314209811
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2045,8.72465055194516
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2050,17.2388308690223
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2055,18.2136314112498
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2060,17.236343524495
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2065,18.9073960951008
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2070,19.4897073001995
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2075,18.6275527991689
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2080,22.5812380351914
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2085,16.3300982862264
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2090,12.9604960623632
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2095,14.1024938593256
+"GW","100% Domestic - Adv. Nuc","100% Domestic","Reactor - Adv.","Fuel - Adv.","USA","Nuclear - Large - PWR",2100,13.4483563218485
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.185124194134446
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.294736015740189
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.369213925531222
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.690534543286746
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.532468909556337
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.450611423358032
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.478135764579723
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.48909030246382
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.47109623883523
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.585503865128956
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.444358988826985
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.383453121119913
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.432879723467257
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.414865215911045
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.365339801246861
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.645445460916526
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.930726841595815
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,1.97034826366997
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,1.87082040936376
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,1.77321087693273
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,2.010670503583
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.16932901121445
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.18697893539474
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,2.81872696480455
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.20761367300783
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,1.93601609455017
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.20918104079218
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.14270420280812
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.362382246384219
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.602114556321794
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.834674454985333
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.67740041013245
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.38705234272418
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.21440337395678
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.31775765004957
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.37436007099222
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.34526836198618
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,1.69404176721672
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.30515737599191
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.13862454890474
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.29684691941358
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.25410888871989
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.431077250515255
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.892949870671714
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.40101895261125
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,3.138609692984
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,3.17388569009568
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.10807668708061
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,3.59373581702521
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,3.93664862967079
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,4.01614143490749
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,5.22420719130146
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.12544830125954
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.63428294014209
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.1595555871755
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,4.04714805846745
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.356238846133822
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.565990136213801
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.656246669343458
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,1.24520555824052
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.967249918292436
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.823242892123391
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.879930496097799
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.90724358340073
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.879702205572687
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.10004004283957
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.842763435681087
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.733439532722687
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.834207651971299
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.805511192232616
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.55784772872053
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.88769455463721
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,6.19164791958504
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,7.53863016417019
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,13.9649743728553
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,10.6978643728035
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,9.09983069702072
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,9.71832765401024
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,10.0051559585463
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,9.68796842149164
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,12.0939801901067
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,9.22525419298141
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,7.98747659511019
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.03856706058026
+"GW","Unrestricted Trade","Unrestricted","Reactor - Mod.","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,8.68352418421233
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2035,0.0965454259982974
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2040,0.137293921802249
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2045,0.119391174383704
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2050,0.213430856319804
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2055,0.201321917989321
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2060,0.193411480928132
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2065,0.21782561929427
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2070,0.237293690104403
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2075,0.246356823951342
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2080,0.334096028126483
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2085,0.270013855531214
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2090,0.245630383056509
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2095,0.291385937467205
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - MSR",2100,0.285584291540221
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2035,0.306373721538986
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2040,0.459392090271662
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2045,0.608844015830687
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2050,1.24173349786606
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2055,1.30070059977032
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2060,1.31310665651558
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2065,1.51438053127498
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2070,1.6726983067794
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2075,1.74197255552639
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2080,2.34880625180758
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2085,1.88221789901299
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2090,1.67985027412581
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2095,1.94591436284046
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - HTGR",2100,1.86102776803284
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2035,0.304991712031742
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2040,0.412650457085334
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2045,0.471017870446013
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2050,0.862174944958132
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2055,0.832701615969815
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2060,0.796686230142472
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2065,0.882901680245523
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2070,0.941596196448154
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2075,0.954745049230341
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2080,1.26075316519702
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2085,0.990954652370092
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2090,0.872754677502493
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2095,0.999111779491252
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - SFR",2100,0.942693353897199
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2035,0.412098471039541
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2040,0.768793898223586
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2045,1.14078479059012
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2050,2.45964982005255
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2055,2.69076501449747
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2060,2.76550119924079
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2065,3.21169673423248
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2070,3.55574418486108
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2075,3.69643248011283
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2080,4.96167308742287
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2085,3.95279933249213
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2090,3.49805823575447
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2095,4.01266596721176
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - BWR",2100,3.79834545930827
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2035,0.284734846347529
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2040,0.372103333968458
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2045,0.338138474081597
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2050,0.586181922061751
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2055,0.544793190591105
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2060,0.511125449119017
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2065,0.559887623818648
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2070,0.591878963225736
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2075,0.596359590696214
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2080,0.784252914827054
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2085,0.614237805401613
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2090,0.540319377763167
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2095,0.618323183604733
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - SMR - PWR modular",2100,0.583203923271486
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2030,1.49469302897504
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2035,2.26557902245861
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2040,3.81507540674557
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2045,3.99573158049824
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2050,6.98279384534196
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2055,6.49909051780652
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2060,6.09988875777517
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2065,6.68451694133765
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2070,7.06753392533496
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2075,7.1139757142495
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2080,9.33960389481354
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2085,7.28911202754424
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2090,6.39285024059777
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2095,7.29851623425034
+"GW","100% Domestic - Expensive U","100% Domestic","Reactor - Mod.","Fuel - Cons.","USA","Nuclear - Large - PWR",2100,6.86967077916715
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.186454412358382
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.300040874225959
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.386437934552718
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.764623336988708
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.766306553696248
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.714896890369574
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.789895438850713
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.827852997802141
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.808029202651387
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.9256533402243
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.554234877831177
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.437592048784118
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.464864248231805
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.432545805982765
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.366764061537858
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.653302743765897
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.955143705818969
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,2.08259564827831
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,2.31158126692928
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,2.31236835814272
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,2.6855484056326
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.93900199832578
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.98829230782231
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,3.63404442765317
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.41019255181377
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,1.99848592272032
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.20250269110234
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.10480456831829
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.364838925020124
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.615222521248737
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.875078470608856
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.86536869533123
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,2.03466826728991
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,2.01029569824327
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,2.31267501705705
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,2.51042231430167
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,2.52181980395091
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,2.93617732899268
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.76015061450358
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.39070499112597
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.47666148481248
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.37704504015324
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.432419735095763
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.901952013467914
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.4322913472303
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,3.29125087125205
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,3.82942022929364
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.93790933854081
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,4.65682005336683
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,5.17040558844302
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,5.31845369763867
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,6.54880333514058
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.41929568761242
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.69534213730632
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.09757641326827
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,3.93477460297211
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.359090774037084
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.577438735682095
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.691008160943321
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,1.39889278413856
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,1.46537984408643
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,1.4174217972066
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,1.61068846698074
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,1.73237072418661
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,1.72664642445246
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.98831166140713
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,1.16937562336943
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.916061730848333
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.966619563857426
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.897672417952385
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56143563801818
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.90968881343717
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,6.32633932940101
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,7.90348612579667
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,15.5122730349229
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,15.5717989375155
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,14.6161816140399
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,16.2557505361079
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,17.1503427356319
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,16.8271583131415
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,19.298113625169
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,11.5087386887156
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,9.07822828016685
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.63610899175728
+"GW","Current Trade - Lower Intl. Nuc","Current","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,8.97171541725647
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2035,0.160373753158928
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2040,0.229998615264636
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2045,0.248312626360509
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2050,0.4488123577273
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2055,0.43740805343552
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2060,0.417642182746361
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2065,0.46481995305529
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2070,0.49400025241436
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2075,0.495073558614512
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2080,0.63649102061811
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2085,0.483049121851533
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2090,0.40999615381575
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2095,0.458564111202972
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - MSR",2100,0.428920416151139
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2035,0.340022722744088
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2040,0.546258338737345
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2045,0.750796427273726
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2050,1.56651254671097
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2055,1.70972225970276
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2060,1.75125069134549
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2065,2.04625315960901
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2070,2.26611397189805
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2075,2.34956949177214
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2080,3.1051838713221
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2085,2.42497351148444
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2090,2.09553324714173
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2095,2.37560824091997
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - HTGR",2100,2.25265846020153
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2035,0.316388520216727
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2040,0.457061482522759
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2045,0.551553315991431
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2050,1.05353010749962
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2055,1.08966474957143
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2060,1.08275470203521
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2065,1.24053071345764
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2070,1.352614546645
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2075,1.38620391972787
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2080,1.81599661012421
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2085,1.40601408559355
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2090,1.20897210385188
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2095,1.36515689624107
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - SFR",2100,1.28927925887219
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2035,0.408779740122244
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2040,0.784229063578161
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2045,1.18127739656667
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2050,2.61546321442327
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2055,2.99157355820563
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2060,3.14540389159703
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2065,3.73813809246162
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2070,4.1951961676631
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2075,4.39268450849118
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2080,5.84910991227919
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2085,4.6010762773843
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2090,3.99259684492954
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2095,4.53954005524222
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - BWR",2100,4.3175190012678
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2035,0.303164365634466
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2040,0.427666521923659
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2045,0.414820920734531
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2050,0.749569791616409
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2055,0.744779097910331
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2060,0.724410131356324
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2065,0.819314250698705
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2070,0.884520157848928
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2075,0.899529408044713
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2080,1.17186296789676
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2085,0.902681180219764
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2090,0.774071838871321
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2095,0.872591126081518
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - SMR - PWR modular",2100,0.822803347679519
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2030,1.56505421320727
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2035,2.51233382153432
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2040,4.59858893285696
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2045,5.04743536379697
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2050,9.09407232407387
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2055,8.93345119939071
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2060,8.59452495263142
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2065,9.62922620279122
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2070,10.2973678306894
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2075,10.3734192414431
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2080,13.3936688154598
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2085,10.2072441830893
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2090,8.68233162176771
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2095,9.722143853833
+"GW","100% Domestic - Lower Intl. Nuc","100% Domestic","Lower Int. Nuc","Fuel - Mod.","USA","Nuclear - Large - PWR",2100,9.10627053422164
